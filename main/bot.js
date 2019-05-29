@@ -1,8 +1,9 @@
 /*
-    Filename: spambot.js
+    Filename: spambotjs-rewrite.js
     Author: Zach "valrym" or @ven#5099 on discord
-    Date: ??/??/17
+    Date: 5/29/19 (originally sometime in '17)
     Purpose: send array of members split via newline to ping individuals
+    New description: my private spambot that i publicized for learning purposes only.
 */
 
 const Discord = require("discord.js");
