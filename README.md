@@ -24,6 +24,10 @@ your tokens go into the json array in "accounts.json" with the following format
 if you only have a few tokens, you'll have to reset the number in the currentaccount.txt every so often
 (remember: json arrays start at 0, not 1.)
 
+# where to get tokens
+
+go to token-sellers.txt and read it.
+
 # how to login with only a token
 
 go to token-login.txt and read through it.
